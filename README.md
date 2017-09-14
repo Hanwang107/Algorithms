@@ -1,2 +1,2 @@
-# Algorithms
-Simple useful algorithms 
+# NLP Practices
+

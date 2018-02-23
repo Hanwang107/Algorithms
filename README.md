@@ -1,9 +1,20 @@
 # TIMIDY - Statistical NLP Final Project
-### Team: Ismayil Hasanov, Swati Raghuwanshi, Han Wang
-### Instructor: Yassine Benajiba
+A chat system where the responses are generated based on the input text
 
-## Word based modelling
-## Character based modelling
+#### Team: Ismayil Hasanov, Swati Raghuwanshi, Han Wang
+#### Instructor: Yassine Benajiba
+### Introduction
+In this project we applied and experimented with the current state-of-art NLP techniques to try and solve this problem. We used Recurrent Neural Networks (RNNs), specifically sequence to sequence (seq2seq) deep learning methodology. 
+### Dataset
+Chat corpus repo (https://github.com/Marsan-Ma/chat_corpus)
+### Methods
+* Preprocessing the data
+* Building the models
+* Testing the models
+### Files
+* Word-based: word_seq2seq.py
+* Character-based: Character_seq2seq.py
+* Word-based with embedding: word_embedding_seq2seq.py
 
 ### References:
 [1]  Li, et al. (2016). A persona-based neural conversation model. Association for Computational Linguistics. 2016.
